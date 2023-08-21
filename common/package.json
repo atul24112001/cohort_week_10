@@ -1,0 +1,16 @@
+{
+  "name": "@atul24112001/cohort_todo_common",
+  "version": "1.0.3",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "pub": "npm publish --access=public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zod": "^3.22.2"
+  }
+}
